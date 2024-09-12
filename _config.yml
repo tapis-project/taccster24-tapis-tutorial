@@ -6,7 +6,7 @@ nav:
 - Intro to Tapis:
   - Intro to Tapis: ./Intro_Tapis/01-intro-to-tapis
 - Intro to Jupyter:
-  - Introduction to Jupyter: ./Jupyter_Notebook/intro-to-jupyter
+  - Introduction to Jupyter: ./Jupyter-Notebook/intro-to-jupyter
 - Tapis Systems:
   - Intro to Tapis Systems: ./Tapis_systems/02-systems
 - Natural Language Processing:

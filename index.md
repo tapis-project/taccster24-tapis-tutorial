@@ -1,13 +1,14 @@
 # Trustworthy, Reproducible Machine Learning with Tapis
 
 ## Schedule
-* 1.30 PM - Welcome
-* 1:40 PM - Introduction to Tapis 
-* 2:00 PM - Tapis Authentication and Systems API
-* 2:30 PM - Introduction to Natural Language Processing and HuggingFace
-* 3:30 PM - Using the Transformers Library for Sentiment Analysis
-* 4:30 PM - Introduction to Tapis Apps and Jobs 
-* 5.15 PM - Q/A
+* 1.00 PM - Welcome
+* 1:10 PM - Introduction to Tapis 
+* 1:30 PM - Tapis Authentication and Systems API
+* 2:00 PM - Break
+* 2:15 PM - Introduction to Natural Language Processing and HuggingFace
+* 2:45 PM - Using the Transformers Library for Sentiment Analysis
+* 3:00 PM - Introduction to Tapis Apps and Jobs 
+* 4.00 PM - Tutorial wrap-up
 
 The resources you will be using today are provided by funding from the National Science Foundation:
 
@@ -15,7 +16,7 @@ The resources you will be using today are provided by funding from the National 
 * [Intro to Tapis](./Intro_Tapis/01-intro-to-tapis.md)
 
 ## Intro to Jupyter
-* [Introduction to Jupyter](./Jupyter_Notebook/intro-to-jupyter.md)
+* [Introduction to Jupyter](./Jupyter-Notebook/intro-to-jupyter.md)
  
 ## Tapis Systems
 * [Intro to Tapis Systems](./Tapis_systems/02-systems.md)
@@ -30,5 +31,5 @@ The resources you will be using today are provided by funding from the National 
 * [Intro to Tapis Jobs](./Tapis_apps_jobs/04-jobs.md)
 
 ## Jupyter Notebook
-* [Notebook](./Jupyter_Notebook/sentiment_analysis.ipynb)
+* [Notebook](./Jupyter-Notebook/sentiment_analysis.ipynb)
  
