@@ -2,12 +2,12 @@
 
 ## Schedule
 * 1.00 PM - Welcome
-* 1:10 PM - Introduction to Tapis 
-* 1:30 PM - Tapis Authentication and Systems API
+* 1:05 PM - Introduction to Tapis (Steve)
+* 1:25 PM - Tapis Authentication (Gilbert) and Creating Tapis Systems (Anagha)
 * 2:00 PM - Break
-* 2:15 PM - Introduction to Natural Language Processing and HuggingFace
-* 2:45 PM - Using the Transformers Library for Sentiment Analysis
-* 3:00 PM - Introduction to Tapis Apps and Jobs 
+* 2:15 PM - Introduction to Natural Language Processing (Anagha)
+* 2:30 PM - Running Tapis Sentiment Analysis Application and Jobs (Steve)
+* 3:00 PM - Tapis Workflows, Pods and Tapis-UI (Nathan and Christian)
 * 4.00 PM - Tutorial wrap-up
 
 The resources you will be using today are provided by funding from the National Science Foundation:
